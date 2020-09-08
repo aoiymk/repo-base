@@ -9,3 +9,9 @@ git remote rm origin
 
 4.Agregar nuevo origen
 git remote add origin https://github.com/aoiymk/repo-test.git 
+
+virtualenv venv
+
+source venv/bin/activate
+
+

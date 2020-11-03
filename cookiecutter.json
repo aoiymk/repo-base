@@ -1,8 +1,7 @@
 {
     "full_name": "La Eli",
-    "email": "nombre.apellido@correo.com",
-    "project_name": "Repo Base",
+    "project_name": "Your Proyect name",
     "file_name": "teeeest",
-    "repo_name": "repo-base",
-    "project_short_description": "Refreshingly simple static site generator."
+    "repo_name": "your-repo-name",
+    "project_short_description": "Simple description"
 }

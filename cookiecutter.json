@@ -3,6 +3,5 @@
     "email": "nombre.apellido@correo.com",
     "project_name": "Repo Base",
     "repo_name": "repo-base",
-    "project_slug": "{{ cookiecutter.repo_name }}",
     "project_short_description": "Refreshingly simple static site generator."
 }

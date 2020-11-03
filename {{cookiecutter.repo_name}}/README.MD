@@ -1,5 +1,5 @@
 ## 👾 {{ cookiecutter.project_name }} 
-{{project_short_description}}  
+{{cookiecutter.project_short_description}}  
 
 ### 🔎 Context 
 *Why do you do this project? Please add information for undestand the problem.  *

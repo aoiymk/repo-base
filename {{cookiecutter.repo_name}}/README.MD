@@ -7,7 +7,6 @@
 ### 🎯Objetive
 *What is the evil objetive of the project? 👽 *  
 
-
 ## 🧩 Description
 *The steps to conquer the world 😈  *   
 

@@ -1,0 +1,12 @@
+*.csv
+*.pyc
+*.ipynb_checkpoints
+*.ipynb
+*.txt
+*.log
+*.zip
+*.xlsx
+__pycache__
+.vscode
+.pytest_cache
+.DS_Store

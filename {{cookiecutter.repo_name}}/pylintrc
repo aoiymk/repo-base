@@ -1,0 +1,15 @@
+[MESSAGES CONTROL]
+
+disable=
+  missing-docstring,
+  line-too-long,
+  too-few-public-methods,
+  C0103, # Method could be a function
+  broad-except,
+  c-extension-no-member,
+  R0201, # Method could be a function
+  R0801, # Similar code (will remove it later)
+  R0913, # Too many arguments
+  R0904, # Too many public methods
+  W0621, # Redefining name (redefined-outer-name)
+  W1202, #Use % formatting in logging functions and pass the % parameters as arguments (logging-format-interpolation)

@@ -1,7 +1,7 @@
 {
     "full_name": "La Eli",
     "project_name": "Your Proyect name",
-    "file_name": "teeeest",
     "repo_name": "your-repo-name",
-    "project_short_description": "Simple description"
+    "project_short_description": "Simple description",
+    "python_version": 3.7.8
 }

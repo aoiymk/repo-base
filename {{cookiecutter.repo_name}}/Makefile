@@ -21,6 +21,3 @@ test-ci:
 
 optimus:
 	make lint && make test-ci && requirements
-
-create-environment:
-	@pyenv virtualenv {{cookiecutter.python_version}}  {{cookiecutter.repo_name}} 

@@ -1,6 +1,4 @@
 install:
-	@echo "Creating virtual environment for {{cookiecutter.repo_name}}"
-	@pyenv virtualenv {{cookiecutter.python_version}}  {{cookiecutter.repo_name}} 
 	@echo "Installing Python dependencies..."
 	@pip install -r requirements.txt --quiet
 	@echo "Python dependencies installed successfully"
